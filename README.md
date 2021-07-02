@@ -11,7 +11,8 @@
 > Stack
 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/python-FCC624?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/python-0769AD?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/cpp-0769AD?style=for-the-badge&logo=cpp&logoColor=black">
 
 <!--
 **jimilee/jimilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
