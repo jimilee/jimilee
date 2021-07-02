@@ -10,9 +10,8 @@
 
 > Stack
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jimilee)
-<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/python-FCC624?style=for-the-badge&logo=python&logoColor=black">
 
 <!--
 **jimilee/jimilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
