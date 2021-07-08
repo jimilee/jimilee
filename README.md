@@ -1,4 +1,3 @@
-> Intro
 ### WELCOME 👋 I'm JIMI
 
 > GitHub Stat
